@@ -16,7 +16,7 @@ Este proyecto implementa un **Sistema de Gestión de Tareas** con:
 ### 1. Clonar el repositorio
 
 ```bash
-git clone https://github.com/Gefq2021/PFO2_Gestion_Tareas
+git clone https://github.com/Gefq2021/PFO2_Gestion_Tareas.git
 cd PFO2_Gestion_Tareas
 ```
 
